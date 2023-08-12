@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, I'm Puquan</h1>
+<h1 align="center">Hi, I'm Puquan👋</h1>
 
 <!--
 **yw4/yw4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
