@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### I am:
 
 - 🎓 Computer Science student graduated from 🇨🇦 University of Alberta and 🇦🇺 UNSW Sydney.
-- 🔭 I’m currently working on `Pytorch`, `React`.
+- 🔭 I’m currently working on `Deep Learning`, `Front End`.
 - 📫 How to reach me
   - Email: **puquan.rin@gmail.com**
   - Wechat: **azusa_ringo**
