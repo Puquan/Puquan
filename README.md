@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### I am:
 
 - 🎓 Computer Science student graduated from 🇨🇦 University of Alberta and 🇦🇺 UNSW Sydney.
-- 🔭 I’m currently working on `LLM`, `Text2SQL`.
+- 🔭 I’m currently working on `LLM`, `Text2SQL`, `Agent`.
 - 📫 How to reach me
   - Email: **puquan.rin@gmail.com**
   - Wechat: **azusa_ringo**
@@ -31,11 +31,9 @@ Here are some ideas to get you started:
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puquan&show_icons=true&locale=en&layout=compact" alt="puquan" /></p>
